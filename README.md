@@ -3,6 +3,10 @@
 **Author:** GitWyd
 **License:** MIT
 
+
+![image](Banner.png)
+
+
 ## Is Your Local Google Drive Backup Incomplete? This Tool Can Help!
 
 Have you ever backed up your Google Drive locally, only to find that many Google Docs, Sheets, Slides, or shared files were copied as tiny placeholder files (often `.gdoc`, `.gsheet`, `.gslides` or just small, empty files) instead of the actual content? This utility is designed to fix that!
