@@ -4,7 +4,7 @@
 **License:** MIT
 
 
-![image](Banner.png)
+![image](banner.png)
 
 
 ## Is Your Local Google Drive Backup Incomplete? This Tool Can Help!
